@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React APP FOR ARTIST
+          React APP FOR ARTIST!
         </a>
       </header>
     </div>
